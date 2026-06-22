@@ -4,28 +4,6 @@ A complete Machine Learning project that predicts residential property prices in
 
 ---
 
-## 📁 Project Structure
-
-```
-lahore_housing/
-├── data/
-│   ├── generate_dataset.py   # Generates the Lahore housing dataset
-│   └── lahore_housing.csv    # Dataset (2000 properties)
-├── src/
-│   ├── train_model.py        # Full training pipeline
-│   └── predict.py            # Inference / prediction script
-├── models/
-│   └── best_model.pkl        # Saved best trained model
-├── outputs/
-│   ├── eda_plots.png         # Exploratory Data Analysis charts
-│   ├── model_comparison.png  # R², MAE, MAPE across all models
-│   ├── best_model_eval.png   # Predicted vs Actual + Residuals
-│   └── feature_importance.png
-└── README.md
-```
-
----
-
 ## 🚀 Quick Start
 
 ### 1. Install dependencies
