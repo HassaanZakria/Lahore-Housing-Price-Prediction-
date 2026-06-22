@@ -1,8 +1,3 @@
-"""
-Lahore Housing Price Prediction — ML Pipeline
-Trains & evaluates multiple models, saves the best one.
-"""
-
 import warnings
 warnings.filterwarnings("ignore")
 
